@@ -1,0 +1,24 @@
+## Synopsis
+
+Practical Test 3 of Fundamentals of Programming COMP1005/5005 
+
+## Contents
+README - readme file for Practical Test 3
+
+
+
+./PractTest3:
+
+dancefloor1.py dancefloor2.py dancefloor3.py dancefloor4.py
+PracTest3: We created a 2-D array of the objects to show a charts showing 10x10 lights. Then we updated the code and after that we created another array and created a loop showing the array 10 times and changing colors, and in the end we created a bubble machine with partly transparent bubbles in the loop
+
+
+
+
+
+
+## Dependencies  
+none
+
+## Version information
+<12/05/2023> - PracTest3.py  program
